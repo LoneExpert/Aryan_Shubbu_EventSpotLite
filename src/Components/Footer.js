@@ -1,6 +1,7 @@
 import React from "react";
 import "../App.css";
 import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from 'react-icons/fa';
+import footer_photo from "../Style/Footer_logo.png"
 
 const Footer = () => {
   return (
@@ -10,7 +11,7 @@ const Footer = () => {
       </div>
       
       <div className="mx-auto md:mx-0 mb-4 md:mb-0">
-        <img src="/assets/footer_logo.png" className="w-24 h-24 md:w-40 md:h-40" alt="Logo" />
+        <img src={footer_photo} className="w-24 h-24 md:w-40 md:h-40" alt="Footer"/>
       </div>
 
       <div className="footer-flex-3">
