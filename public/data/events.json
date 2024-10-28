@@ -1,0 +1,20 @@
+[
+    {"id": 1, "name": "Diwali Celebration", "date": "2024-10-31", "location": "Dwarka Sector 8/New Delhi","description": "Celebrate Diwali: Light, Love, Prosperity!", "image":"/assets/diwali.jpg"},
+    {"id": 2, "name": "Music Festival", "date": "2024-11-20", "location": "Karol Bagh/New Delhi","description": "A thrilling music event", "image":"/assets/diwali.jpg"},
+    {"id": 3, "name": "Christmas Celebration", "date": "2025-1-21", "location": "Vikas Nagar/Old Delhi","description": "A Chritsmas party for eveyrone", "image":"/assets/diwali.jpg"},
+    {"id": 4, "name": "Art Gallery", "date": "2024-12-25", "location": "Super-mart/Old Delhi","description": "A gallary of arts and crafts", "image":"/assets/diwali.jpg"},
+    {"id": 5, "name": "Christmas Celebration", "date": "2024-11-10", "location": "kacha road/Old Delhi","description": "A Chritsmas party for eveyrone", "image":"/assets/diwali.jpg"},
+    {"id": 6, "name": "Book Workshop", "date": "2024-12-20", "location": "Rohila/Old Delhi","description": "A workshop for books", "image":"/assets/diwali.jpg"},
+    {"id": 7, "name": "Yoga Event", "date": "2024-12-29", "location": "Saket/Old Delhi","description": "A healthy way to live healthy", "image":"/assets/diwali.jpg"},
+    {"id": 8, "name": "Halloween Party", "date": "2024-10-31", "location": "Banauri/New Delhi", "description": "A spooky night of costumes and fun!", "image":"/assets/diwali.jpg"},
+    {"id": 9, "name": "Tech Meetup", "date": "2024-11-10", "location": "Lohri gardeb/New Delhi", "description": "Join us for an evening of tech talks and networking.", "image":"/assets/diwali.jpg"},
+    {"id": 10, "name": "Thanksgiving Dinner", "date": "2024-11-28", "location": "Main Street/New Delhi", "description": "Celebrate Thanksgiving with us and enjoy a feast!", "image":"/assets/diwali.jpg"},
+    {"id": 11, "name": "Winter Carnival", "date": "2024-12-15", "location": "Central Park/New Delhi", "description": "An event full of winter games, food, and festivities!", "image":"/assets/diwali.jpg"},
+    {"id": 12, "name": "New Year's Eve Bash", "date": "2024-12-31", "location": "One Square/New Delhi", "description": "Countdown to the New Year with us!", "image":"/assets/diwali.jpg"},
+    {"id": 13, "name": "Valentine's Day Gala", "date": "2025-02-14", "location": "Uptown/New Delhi", "description": "A romantic evening filled with music and dance.", "image":"/assets/diwali.jpg"},
+    {"id": 14, "name": "Spring Festival", "date": "2025-03-20", "location": "Golden Gate/New Delhi", "description": "Celebrate the start of spring with family activities and music!", "image":"/assets/diwali.jpg"},
+    {"id": 15, "name": "Easter Egg Hunt", "date": "2025-04-05", "location": "City Park/New Delhi", "description": "Fun for kids of all ages in a colorful Easter egg hunt!", "image":"/assets/diwali.jpg"},
+    {"id": 16, "name": "Summer Music Fest", "date": "2025-06-22", "location": "Beachfront/New Delhi", "description": "A lively beachside music festival.", "image":"/assets/diwali.jpg"},
+    {"id": 17, "name": "Fourth of July Parade", "date": "2025-07-04", "location": "Broadway/New Delhi", "description": "A patriotic parade to celebrate Independence Day!", "image":"/assets/diwali.jpg"},
+    {"id": 18, "name": "Social Awarness", "date": "2024-12-6", "location": "Model Town/New Delhi", "description": "A way to socialise people to have some confidence", "image":"/assets/diwali.jpg"}
+]   
